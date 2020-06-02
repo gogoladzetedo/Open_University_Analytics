@@ -12,4 +12,5 @@ Our aim is to identify main factors that influence students performance and effi
 <h3>Data</h3>
 Data consists of 7 interconnected tables which contain variables such as: student demographic information, students scores, students interaction with VLE (sum of the clicks, registration/withdrawal dates etc.).
 
-<h3>Findings of the research are visualised in the pptx poster file `Poster_Open University.pptx`</h3>
+<h3>Results</h3>
+Findings of the research are visualised in the pptx poster file `Poster_Open University.pptx`</h3>
